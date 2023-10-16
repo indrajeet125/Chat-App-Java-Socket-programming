@@ -11,7 +11,6 @@ public class Client extends JFrame {
     PrintWriter out;
 
     // declare component
-
     JLabel heading = new JLabel("Clinet area");
     JTextArea messageArea = new JTextArea();
     JTextField messageInput = new JTextField();
